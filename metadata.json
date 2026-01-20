@@ -1,0 +1,5 @@
+{
+  "name": "New Biroea Production System",
+  "description": "A web-based production planning application for pharmaceutical packaging, featuring inventory management, order tracking, and an intelligent cut optimizer.",
+  "requestFramePermissions": []
+}
